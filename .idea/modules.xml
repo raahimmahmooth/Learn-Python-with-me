@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject.iml" filepath="$PROJECT_DIR$/.idea/PythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Silent Auction/.idea/Silent Auction.iml" filepath="$PROJECT_DIR$/../Silent Auction/.idea/Silent Auction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coffe_machine/.idea/coffe_machine.iml" filepath="$PROJECT_DIR$/../coffe_machine/.idea/coffe_machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../higher &amp; lower game/.idea/higher &amp; lower game.iml" filepath="$PROJECT_DIR$/../higher &amp; lower game/.idea/higher &amp; lower game.iml" />
+    </modules>
+  </component>
+</project>
